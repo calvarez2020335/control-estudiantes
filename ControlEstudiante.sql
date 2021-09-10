@@ -22,4 +22,13 @@ VALUES ('Karla ', 'Gomez', 'kgomez@gmail.com', '56879658', '250');
 INSERT INTO estudiante (nombre, apellido, email, telefono, saldo) 
 VALUES ('Luis ', 'Canto', 'lcanto@gmail.com', '56325478', '150');
 
+INSERT INTO estudiante(nombre, apellido, email, telefono, saldo)
+VALUES ("Juan", "Pérez", "jperez@gmail.com", "85236942", 300);
+
+INSERT INTO estudiante(nombre, apellido, email, telefono, saldo) 
+VALUES ("Luisa", "Herrera", "lherrera@gmail.com", "46320154", 525);
+
+INSERT INTO estudiante(nombre, apellido, email, telefono, saldo) 
+VALUES ("Ricardo", "Martinez", "rmartinez@gmail.com", "69325647", 260);
+
 select * from estudiante

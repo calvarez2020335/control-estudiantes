@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#kinal-header{
+    background-color: #23376D;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+#kinal-footer{
+    background-color: #23376D;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+#contenido{
+    padding: 20px;
+}
+
+.descripcion{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 15px;
+    
+}
+
+#imagen-principal{
+    display: block;
+    margin: auto;
+}
